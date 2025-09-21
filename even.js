@@ -9,3 +9,4 @@ console.log(checkOddEven(8));
 console.log(checkOddEven(7));
 console.log(checkOddEven(0));
 console.log(checkOddEven(15));
+f
